@@ -1,0 +1,29 @@
+name: rl
+version: 0.1.0
+
+targets:
+  shards:
+    main: src/boot.cr
+
+dependencies:
+  raylib-cr:
+    github: sol-vin/raylib-cr
+  myecs:
+    github: konovod/myecs
+
+# authors:
+#   - name <email@example.com>
+
+# description: |
+#   Short description of rl
+
+# dependencies:
+#   pg:
+#     github: will/crystal-pg
+#     version: "~> 0.5"
+
+# development_dependencies:
+#   webmock:
+#     github: manastech/webmock.cr
+
+# license: MIT

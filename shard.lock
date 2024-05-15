@@ -1,0 +1,14 @@
+version: 2.0
+shards:
+  cannon:
+    git: https://github.com/konovod/cannon.git
+    version: 0.2.2+git.commit.d7a98c6c8b2b2701b91071556dc993aeccaf64df
+
+  myecs:
+    git: https://github.com/konovod/myecs.git
+    version: 0.2.0+git.commit.cdfd7005589a8de0bfdc27778dfd5ff2efe7acc3
+
+  raylib-cr:
+    git: https://github.com/sol-vin/raylib-cr.git
+    version: 5.0+git.commit.a5a87e985ba7776c3384f4c9fb50e2b0c1a8cba4
+
