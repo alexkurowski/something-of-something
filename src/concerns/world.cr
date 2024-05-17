@@ -1,4 +1,4 @@
-module Concerns::World
+module Concern::World
   @world = ECS::World.new
 
   getter :world

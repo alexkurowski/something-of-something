@@ -1,7 +1,7 @@
-module States; end
+module State; end
 
-module Concerns; end
+module Concern; end
 
-module Components; end
+module Component; end
 
-module Systems; end
+module System; end

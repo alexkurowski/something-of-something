@@ -9,7 +9,8 @@ dependencies:
   raylib-cr:
     github: sol-vin/raylib-cr
   myecs:
-    github: konovod/myecs
+    github: alexkurowski/myecs
+    # path: ../myecs
 
 # authors:
 #   - name <email@example.com>
